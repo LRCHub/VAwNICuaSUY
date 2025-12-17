@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Good morning my dream",
+  "base_artist": "るか・もな・みき from AIKATSU☆STARS!",
+  "createdAt": "2025-12-17T07:52:41.881779Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good morning my dream",
+      "artist": "るか・もな・みき from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/01_Good_morning_my_dream_るか・もな・みき_from_AIKATSU☆STARS!.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good morning my dream (TV-size)",
+      "artist": "るか・もな・みき from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/02_Good_morning_my_dream_(TV-size)_るか・もな・みき_from_AIKATSU☆STARS!.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good morning my dream ～いちご & あおい & 蘭 Ver.～",
+      "artist": "わか・ふうり・ゆな from STAR☆ANIS",
+      "has_synced": true,
+      "path": "select/03_Good_morning_my_dream_~いちご_&_あおい_&_蘭_Ver.~_わか・ふうり・ゆな_from_STAR☆ANIS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good morning my dream",
+      "artist": "るか・もな・みき from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/pl_01_Good_morning_my_dream_るか・もな・みき_from_AIKATSU☆STARS!.txt"
+    }
+  ]
+}
